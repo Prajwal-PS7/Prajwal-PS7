@@ -105,14 +105,16 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Prajwal&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
 
-## Active Status in snake style
-<img src="https://raw.githubusercontent.com/Prajwal-PS7/Prajwal-PS7/output/snake.svg" alt="Snake animation" />
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
 <br/>
-
-
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
