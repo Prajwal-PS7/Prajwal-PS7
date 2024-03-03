@@ -107,6 +107,11 @@
 
 <br/>  
 
+## Active Status in snake style
+<img src="https://raw.githubusercontent.com/Prajwal-PS7/Prajwal-PS7/output/snake.svg" alt="Snake animation" />
+
+<br/>
+
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
