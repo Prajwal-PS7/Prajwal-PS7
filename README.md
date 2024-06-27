@@ -1,8 +1,5 @@
 <div align="center">
-  <div style="padding-top:112.349%;position:relative;">
-    <iframe src="https://gifer.com/embed/BaL" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe>
-  </div><p><a href="https://gifer.com">via GIFER</a></p>
-<!--  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxidHNxamJrb3pyZGgwM3g2Y2h1ZDVha3RxeXRld3V4cHFydm9kdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BCRQQy8rYKapGynGlE/giphy.gif" align="center" style="width: 100%" /> -->
+  <img src=x onload=alert(document.doamin) align="center" style="width: 100%" />
 </div>  
   
 
