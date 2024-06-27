@@ -9,10 +9,10 @@
 
 🔍 Skill Set:
     
-<li> &emsp; Ethical Hacking: Identifying vulnerabilities and securing systems.</li>
-<li> &emsp; Linux Administration: Managing and maintaining Linux servers.</li>
-<li> &emsp; Programming & Scripting: Writing efficient code in various languages.</li>
-<li> &emsp; Cybersecurity Enthusiast: Staying updated with the latest trends and technologies in cybersecurity.</li>
+&emsp; <li> Ethical Hacking: Identifying vulnerabilities and securing systems.</li>
+&emsp; <li> Linux Administration: Managing and maintaining Linux servers.</li>
+&emsp; <li> Programming & Scripting: Writing efficient code in various languages.</li>
+&emsp; <li> Cybersecurity Enthusiast: Staying updated with the latest trends and technologies in cybersecurity.</li>
 
 <br>
 
