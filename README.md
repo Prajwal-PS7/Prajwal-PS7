@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=https://i3.wp.com/media3.giphy.com/media/N5cSfHyn6zjbQocLxh/source.gif align="center" style="width: 60%" />
+  <img src=https://i3.wp.com/media3.giphy.com/media/N5cSfHyn6zjbQocLxh/source.gif align="center" style="width: 40%" />
 </div>  
   
 
