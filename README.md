@@ -3,7 +3,7 @@
 </div>  
   
 
-<div align="center">
+<div align="justify">
 
 👋 Hi there! I'm Prajwal, a passionate and skilled Ethical Hacker, Linux Administrator, Programmer, and Cybersecurity Enthusiast. With a strong foundation in finding and reporting bugs in live web applications, I strive to make the digital world a safer place.
 
