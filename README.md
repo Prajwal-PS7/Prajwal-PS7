@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=x onload=alert(document.doamin) align="center" style="width: 100%" />
+  <img src=x onerror=alert(document.doamin) align="center" style="width: 100%" />
 </div>  
   
 
