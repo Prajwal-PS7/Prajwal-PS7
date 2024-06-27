@@ -2,10 +2,9 @@
   <img src=https://i3.wp.com/media3.giphy.com/media/N5cSfHyn6zjbQocLxh/source.gif align="center" style="width: 40%" />
 </div>  
   
-
+## Whoami
 <div align="justify">
-  ## Whoami
-<p> 
+  <p> 
   👋 Hi there! I'm Prajwal, a passionate and skilled Ethical Hacker, Linux Administrator, Programmer, and Cybersecurity Enthusiast. With a strong foundation in finding and reporting bugs in live web applications, I strive to make the digital world a safer place.
 </p>
   
