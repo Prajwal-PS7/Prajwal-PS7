@@ -4,15 +4,16 @@
   
 
 <div align="justify">
-
-👋 Hi there! I'm Prajwal, a passionate and skilled Ethical Hacker, Linux Administrator, Programmer, and Cybersecurity Enthusiast. With a strong foundation in finding and reporting bugs in live web applications, I strive to make the digital world a safer place.
-
-🔍 Skill Set:
+<p> 
+  👋 Hi there! I'm Prajwal, a passionate and skilled Ethical Hacker, Linux Administrator, Programmer, and Cybersecurity Enthusiast. With a strong foundation in finding and reporting bugs in live web applications, I strive to make the digital world a safer place.
+</p>
+  
+<h1>🔍 Skill Set: </h1>
   <ul>
         <li>Ethical Hacking: Identifying vulnerabilities and securing systems.</li>
-        &emsp;<li>Linux Administration: Managing and maintaining Linux servers.</li>
-        &emsp;<li>Programming & Scripting: Writing efficient code in various languages.</li>
-        &emsp;<li>Cybersecurity Enthusiast: Staying updated with the latest trends and technologies in cybersecurity.</li>
+        <li>Linux Administration: Managing and maintaining Linux servers.</li>
+        <li>Programming & Scripting: Writing efficient code in various languages.</li>
+        <li>Cybersecurity Enthusiast: Staying updated with the latest trends and technologies in cybersecurity.</li>
     </ul>
 <br>
 
