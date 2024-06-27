@@ -3,21 +3,23 @@
 </div>  
   
 
-### **<div align="center">I'm Prajwal, a part-time PenTester (Bug Hunter) as a freelancer 👨‍💻 working remotely since 2020 🚀</div>**  
-  
+### **<div align="center">
 
-- 🔭 I’m currently working as a Linux Admin [Linkedin Profile](https://www.linkedin.com/in/prajwalkewat/)  
-  
+👋 Hi there! I'm Prajwal, a passionate and skilled Ethical Hacker, Linux Administrator, Programmer, and Cybersecurity Enthusiast. With a strong foundation in finding and reporting bugs in live web applications, I strive to make the digital world a safer place.
 
-- 🌱 I’m currently learning Cyber Security & System Hacking  
-  
+🔍 Skill Set:
+    
+Ethical Hacking: Identifying vulnerabilities and securing systems.
+Linux Administration: Managing and maintaining Linux servers.
+Programming & Scripting: Writing efficient code in various languages.
+Cybersecurity Enthusiast: Staying updated with the latest trends and technologies in cybersecurity.
 
-- ❓ Ask me about anything related to Linux and Cyber Security related Topics  
-  
+🔒 I'm dedicated to continuous learning and contributing to the cybersecurity community. Check out my repositories for some of my latest projects and feel free to connect with me!
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+🌐 Let's secure the Degital World!
 
+</div>**  
+  
 <br/>  
 
 
@@ -104,25 +106,8 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Prajwal&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br/>
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
   
+###
 
 <br/>  
 
@@ -131,5 +116,5 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center"></div>
+<div align="center">test</div>
 <br />
