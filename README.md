@@ -83,7 +83,6 @@
 
 <br/>  
 
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/Prajwal-PS7" target="_blank">
@@ -103,21 +102,11 @@
 </a>  
 </div>  
   
-
 <br/>  
-
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Prajwal&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-  
-###
-
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Prajwal&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Prajwal-PS7&&style=flat-square)  
-  
-
-<br/>  
-
-<div align="center">test</div>
-<br />
+## Profile View Count
+![Profile views counter](https://komarev.com/ghpvc/?username=Prajwal-PS7&&style=flat-square)
