@@ -1,6 +1,8 @@
+<!--
 <div align="center">
   <img src=https://i3.wp.com/media3.giphy.com/media/N5cSfHyn6zjbQocLxh/source.gif align="center" style="width: 40%" />
 </div>  
+-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
