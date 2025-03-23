@@ -117,7 +117,7 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://streak-stats.demolab.com?user=Kiran1689&amp;theme=nightowl" alt="Streak Stats">
+          <img align="center" src="https://streak-stats.demolab.com/?user=Prajwal-PS7&amp;theme=nightowl" alt="Streak Stats">
         </a>
       </p>
     </td>
