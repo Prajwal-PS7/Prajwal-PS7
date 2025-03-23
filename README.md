@@ -113,5 +113,14 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Prajwal&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <br/>  
 
+<td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689">
+          <img align="center" src="https://streak-stats.demolab.com?user=Kiran1689&amp;theme=nightowl" alt="Streak Stats">
+        </a>
+      </p>
+    </td>
+
 ## Profile View Count
 ![Profile views counter](https://komarev.com/ghpvc/?username=Prajwal-PS7&&style=flat-square)
